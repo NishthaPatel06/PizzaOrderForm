@@ -1,0 +1,54 @@
+/**Some of the tags to give effects to text ,border, font ..etc using CSS**/
+
+/**tag for background colour**/
+body
+{
+  background-color: #FFF8DC;
+}
+
+/**targetting to all div tag**/
+.div
+{
+  width: 75%;
+  margin-left: inherit;
+  margin-right: inherit;
+  border-color: black;
+}
+
+/**tag to give effects to heading of the form**/
+h1
+{
+  font-size:2.5em; margin:10px
+}
+h1
+{
+  text-align: center;
+}
+
+/**to set image properly**/
+img
+{
+width:75%;
+height:20%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+}
+
+/**extra effects to text **/
+h2
+{
+  font-size:1.875em; margin:10px
+}
+h2
+{
+  text-align: center;
+}
+
+/**targetting p and label tags**/
+p,label
+{
+  font-size: 20px;
+  font-weight: bold;
+}
